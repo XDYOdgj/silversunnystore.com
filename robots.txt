@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://silversunnystore.com/sitemap.xml
